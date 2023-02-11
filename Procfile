@@ -1,1 +1,1 @@
-web: node app.js
+alarails: node app.js
